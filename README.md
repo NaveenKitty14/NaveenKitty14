@@ -93,9 +93,6 @@ I am a B.Tech student specializing in <strong>Artificial Intelligence and Data S
 <div align="center" style="margin-top: 5rem;">
     <h3 align="center" style="margin-bottom: 2rem;">🔥   My Stats</h3>
 
-<a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=PraveenSiva77&theme=vision-friendly-dark" alt="Praveenkumar GitHub Streak" />
-</a>
 </div>
 
 
