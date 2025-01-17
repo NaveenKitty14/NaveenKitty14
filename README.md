@@ -89,11 +89,17 @@ I am a B.Tech student specializing in <strong>Artificial Intelligence and Data S
 
 
 ###
+<table align="center" style="margin-top: 2rem; border: 1px solid #ddd; border-collapse: collapse;">
+    <tr style="background-color: #333; color: white;">
+        <th>Theme</th>
+        <th>Image</th>
+    </tr>
+    <tr style="background-color: #444; color: white;">
+        <td><code>dark</code></td>
+        <td><img src="https://avatars.githubusercontent.com/u/107488620?v=4" alt="GitHub Profile Image" style="width: 200px;"></td>
+    </tr>
+</table>
 
-<div align="center" style="margin-top: 5rem color:#3d3d3d;">
-    <h3 align="center" style="margin-bottom: 2rem;">🔥 My Stats</h3>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=NaveenKitty14" alt="GitHub Streak">
-</div>
 
 
 </div>
