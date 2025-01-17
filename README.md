@@ -90,7 +90,7 @@ I am a B.Tech student specializing in <strong>Artificial Intelligence and Data S
 
 ###
 
-<div align="center" style="margin-top: 5rem color:#fff;">
+<div align="center" style="margin-top: 5rem color:#3d3d3d;">
     <h3 align="center" style="margin-bottom: 2rem;">🔥 My Stats</h3>
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=NaveenKitty14" alt="GitHub Streak">
 </div>
