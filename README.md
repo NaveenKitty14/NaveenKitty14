@@ -40,8 +40,8 @@ I am a B.Tech student specializing in <strong>Artificial Intelligence and Data S
   - 🖼️ Guided peers in exploring different photography styles and careers in visual arts.
 
 - **RaC CBE Royals** Professional Service Director (June 2024 - Present)
-- Managing Professional service Projects.
-- Documentation of Professional service Projects and records.
+  -Managing Professional service Projects.
+  -Documentation of Professional service Projects and records.
 
 <h3 align="left">🛠 Language and tools</h3>
 
