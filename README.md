@@ -100,7 +100,6 @@ I am a B.Tech student specializing in <strong>Artificial Intelligence and Data S
 <div align="center" style="margin-top: 5rem;">
 <h3 align="center" style="border: 1px solid #326ce5; border-radius: 10rem; padding: 0.5rem 1rem; width: max-content;">Feel free to connect with me on <a href="www.linkedin.com/in/naveen-prasath144">LinkedIn</a>.</h3>
 
-
 <p align="center">
  <img width="1000" src="assets/github-snake.svg" alt="snake"/>
 </p>
