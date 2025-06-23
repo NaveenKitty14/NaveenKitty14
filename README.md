@@ -186,3 +186,7 @@ Have an idea, collaboration, or just want to say hi? I’m always open to meanin
   </table>
 </div>
 
+<div align="center">
+  <img src="https://github.com/NaveenKitty14/NaveenKitty14/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</div>
+
