@@ -5,7 +5,7 @@
 
 # 🚀 Hi there, **I'm Naveen Prasath** 
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Graphic+Designer;Brand+Strategist+%7C+UI | UX+Designer;" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Graphic+Designer;Brand+Strategist+%7C+UI%2FUX+Designer;" alt="Typing SVG" />
 
 <div>
   <img src="https://img.shields.io/badge/🎨_Graphic_Designer-FF6B6B?style=for-the-badge&logoColor=white" />
