@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="150" src="./assets/Logo_Base.png" alt="Naveen Prasath Logo" />
+  <img height="150" src="./assets/Logo_Base1.png" alt="Naveen Prasath Logo" />
 </div>
 <div align="center">
 
