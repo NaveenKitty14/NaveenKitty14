@@ -163,7 +163,7 @@ Have an idea, collaboration, or just want to say hi? I’m always open to meanin
 
 👨‍💻 Check out my code on [**GitHub**](https://github.com/NaveenKitty14)
 
-🌐 Explore my portfolio: [**Live Website**](https://naveen-kitty-portfoliocom.vercel.app/)
+🌐 Explore my portfolio: [**Live Website**](https://naveenkitty14.github.io/NaveenKitty-Portfolio/)
 
 > ✨ *Driven by curiosity and passion, I aim to turn innovative ideas into digital reality. Let’s create something impactful together.* 🚀
 
