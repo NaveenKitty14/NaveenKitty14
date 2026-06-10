@@ -180,7 +180,6 @@ console.log(Naveen);
 
 | Certificate | Issuer |
 |---|---|
-| 🎓 Software Engineer Trainee | IZET-E Internship |
 | 🍃 Introduction to MongoDB | MongoDB.com |
 | 🤖 Deep Learning with Python | Great Learning |
 | 🌐 Web Development | Teachnook Internship |
